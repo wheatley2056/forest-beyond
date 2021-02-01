@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Forest Beyond",
-  "version": "1.0U1",
+  "name": "Forest Beyond EDIT MODE",
+  "version": "1.0U2",
   "author": "wheatley2056",
   "files": [
     {
@@ -30,13 +30,13 @@
       "required": true
     },
     {
-      "projectID": 248994,
-      "fileID": 2560552,
+      "projectID": 352039,
+      "fileID": 2879573,
       "required": true
     },
     {
-      "projectID": 352039,
-      "fileID": 2879573,
+      "projectID": 248994,
+      "fileID": 2560552,
       "required": true
     },
     {
@@ -140,13 +140,13 @@
       "required": true
     },
     {
-      "projectID": 228525,
-      "fileID": 2836960,
+      "projectID": 238551,
+      "fileID": 2744766,
       "required": true
     },
     {
-      "projectID": 238551,
-      "fileID": 2744766,
+      "projectID": 228525,
+      "fileID": 2836960,
       "required": true
     },
     {
@@ -250,13 +250,13 @@
       "required": true
     },
     {
-      "projectID": 313866,
-      "fileID": 3033266,
+      "projectID": 359540,
+      "fileID": 2909603,
       "required": true
     },
     {
-      "projectID": 359540,
-      "fileID": 2909603,
+      "projectID": 313866,
+      "fileID": 3033266,
       "required": true
     },
     {
@@ -335,23 +335,23 @@
       "required": true
     },
     {
-      "projectID": 220954,
-      "fileID": 2881277,
-      "required": true
-    },
-    {
       "projectID": 278882,
       "fileID": 2716712,
       "required": true
     },
     {
-      "projectID": 238222,
-      "fileID": 3040523,
+      "projectID": 220954,
+      "fileID": 2881277,
       "required": true
     },
     {
       "projectID": 227639,
       "fileID": 3051450,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3040523,
       "required": true
     },
     {
@@ -375,13 +375,13 @@
       "required": true
     },
     {
-      "projectID": 314002,
-      "fileID": 2719400,
+      "projectID": 222097,
+      "fileID": 2805035,
       "required": true
     },
     {
-      "projectID": 222097,
-      "fileID": 2805035,
+      "projectID": 314002,
+      "fileID": 2719400,
       "required": true
     },
     {
@@ -410,13 +410,13 @@
       "required": true
     },
     {
-      "projectID": 233255,
-      "fileID": 3022076,
+      "projectID": 60028,
+      "fileID": 2659258,
       "required": true
     },
     {
-      "projectID": 60028,
-      "fileID": 2659258,
+      "projectID": 233255,
+      "fileID": 3022076,
       "required": true
     },
     {
@@ -435,13 +435,13 @@
       "required": true
     },
     {
-      "projectID": 228816,
-      "fileID": 2699056,
+      "projectID": 243298,
+      "fileID": 3116493,
       "required": true
     },
     {
-      "projectID": 243298,
-      "fileID": 3116493,
+      "projectID": 228816,
+      "fileID": 2699056,
       "required": true
     },
     {
@@ -475,18 +475,13 @@
       "required": true
     },
     {
-      "projectID": 223852,
-      "fileID": 2952606,
-      "required": true
-    },
-    {
       "projectID": 238891,
       "fileID": 2922489,
       "required": true
     },
     {
-      "projectID": 231095,
-      "fileID": 2720655,
+      "projectID": 223852,
+      "fileID": 2952606,
       "required": true
     },
     {
@@ -495,8 +490,13 @@
       "required": true
     },
     {
+      "projectID": 231095,
+      "fileID": 2720655,
+      "required": true
+    },
+    {
       "projectID": 265642,
-      "fileID": 3171828,
+      "fileID": 3189062,
       "required": true
     },
     {
@@ -550,13 +550,13 @@
       "required": true
     },
     {
-      "projectID": 246183,
-      "fileID": 3056896,
+      "projectID": 222789,
+      "fileID": 3025806,
       "required": true
     },
     {
-      "projectID": 222789,
-      "fileID": 3025806,
+      "projectID": 246183,
+      "fileID": 3056896,
       "required": true
     },
     {
