@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Forest Beyond EDIT MODE",
-  "version": "1.0U2",
+  "name": "Forest Beyond (1)",
+  "version": "1.0U3",
   "author": "wheatley2056",
   "files": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "projectID": 304750,
-      "fileID": 3186886,
+      "fileID": 3195832,
       "required": true
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 3184382,
+      "fileID": 3195376,
       "required": true
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "projectID": 389665,
-      "fileID": 3067998,
+      "fileID": 3194993,
       "required": true
     },
     {
@@ -446,7 +446,7 @@
     },
     {
       "projectID": 229380,
-      "fileID": 3158476,
+      "fileID": 3196214,
       "required": true
     },
     {
@@ -461,7 +461,7 @@
     },
     {
       "projectID": 257814,
-      "fileID": 3173840,
+      "fileID": 3198625,
       "required": true
     },
     {
@@ -567,6 +567,11 @@
     {
       "projectID": 303557,
       "fileID": 2933382,
+      "required": true
+    }
+	{
+      "projectID": 311377,
+      "fileID": 2859893,
       "required": true
     }
   ],
