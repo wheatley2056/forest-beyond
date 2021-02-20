@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Forest Beyond (1)",
-  "version": "1.0U3",
+  "version": "1.0U4",
   "author": "wheatley2056",
   "files": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "projectID": 304750,
-      "fileID": 3195832,
+      "fileID": 3201666,
       "required": true
     },
     {
@@ -140,6 +140,11 @@
       "required": true
     },
     {
+      "projectID": 375573,
+      "fileID": 3202095,
+      "required": true
+    },
+    {
       "projectID": 238551,
       "fileID": 2744766,
       "required": true
@@ -167,6 +172,11 @@
     {
       "projectID": 268655,
       "fileID": 2951840,
+      "required": true
+    },
+    {
+      "projectID": 291499,
+      "fileID": 2685154,
       "required": true
     },
     {
@@ -216,7 +226,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 3195376,
+      "fileID": 3202907,
       "required": true
     },
     {
@@ -365,6 +375,11 @@
       "required": true
     },
     {
+      "projectID": 383606,
+      "fileID": 2978098,
+      "required": true
+    },
+    {
       "projectID": 229876,
       "fileID": 2483393,
       "required": true
@@ -497,6 +512,11 @@
     {
       "projectID": 265642,
       "fileID": 3189062,
+      "required": true
+    },
+    {
+      "projectID": 79616,
+      "fileID": 2777813,
       "required": true
     },
     {
