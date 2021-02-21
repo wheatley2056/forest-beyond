@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Forest Beyond (1)",
-  "version": "1.0U4",
+  "version": "1.0U5",
   "author": "wheatley2056",
   "files": [
     {
@@ -232,11 +232,6 @@
     {
       "projectID": 277631,
       "fileID": 2750633,
-      "required": true
-    },
-    {
-      "projectID": 221939,
-      "fileID": 2837187,
       "required": true
     },
     {
