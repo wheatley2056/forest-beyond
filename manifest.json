@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Forest Beyond (1)",
-  "version": "1.0U5",
+  "name": "Forest Beyond",
+  "version": "1.0U6",
   "author": "wheatley2056",
   "files": [
     {
@@ -95,6 +95,11 @@
       "required": true
     },
     {
+      "projectID": 231275,
+      "fileID": 2801170,
+      "required": true
+    },
+    {
       "projectID": 224599,
       "fileID": 2958490,
       "required": true
@@ -155,6 +160,11 @@
       "required": true
     },
     {
+      "projectID": 231868,
+      "fileID": 2972849,
+      "required": true
+    },
+    {
       "projectID": 241895,
       "fileID": 2733525,
       "required": true
@@ -162,6 +172,11 @@
     {
       "projectID": 228529,
       "fileID": 2852872,
+      "required": true
+    },
+    {
+      "projectID": 263624,
+      "fileID": 2579934,
       "required": true
     },
     {
@@ -187,6 +202,11 @@
     {
       "projectID": 79287,
       "fileID": 2481605,
+      "required": true
+    },
+    {
+      "projectID": 264231,
+      "fileID": 2939529,
       "required": true
     },
     {
@@ -340,6 +360,11 @@
       "required": true
     },
     {
+      "projectID": 230976,
+      "fileID": 2463272,
+      "required": true
+    },
+    {
       "projectID": 278882,
       "fileID": 2716712,
       "required": true
@@ -460,8 +485,18 @@
       "required": true
     },
     {
+      "projectID": 221585,
+      "fileID": 2492586,
+      "required": true
+    },
+    {
       "projectID": 230497,
       "fileID": 2450900,
+      "required": true
+    },
+    {
+      "projectID": 242195,
+      "fileID": 2813586,
       "required": true
     },
     {
@@ -471,7 +506,7 @@
     },
     {
       "projectID": 257814,
-      "fileID": 3198625,
+      "fileID": 3227279,
       "required": true
     },
     {
@@ -505,6 +540,11 @@
       "required": true
     },
     {
+      "projectID": 248370,
+      "fileID": 2490058,
+      "required": true
+    },
+    {
       "projectID": 265642,
       "fileID": 3189062,
       "required": true
@@ -517,6 +557,11 @@
     {
       "projectID": 296289,
       "fileID": 2919737,
+      "required": true
+    },
+    {
+      "projectID": 64578,
+      "fileID": 3124452,
       "required": true
     },
     {
@@ -537,6 +582,11 @@
     {
       "projectID": 252848,
       "fileID": 2893527,
+      "required": true
+    },
+    {
+      "projectID": 225561,
+      "fileID": 2678374,
       "required": true
     },
     {

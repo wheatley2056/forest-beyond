@@ -11,6 +11,7 @@
     },
     "tutorials": {
         "enable_mouse_rendering": false,
+        "enable_mouse_buttons_rendering": false,
         "enable_keystrokes_rendering": false,
         "keystroke_offset": 10,
         "keystroke_position": 1
