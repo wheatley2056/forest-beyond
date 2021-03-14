@@ -1,0 +1,9 @@
+#Wed Mar 10 16:31:53 CET 2021
+Adaptive_sharpening=true
+bloom_strength=2.0
+Clouds=1
+Godrays=true
+Godrays_Density=4.6
+minlight=0.001
+Moonlight=0.006
+morningFog=true
